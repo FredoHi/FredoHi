@@ -1,6 +1,6 @@
 -  Friday Hyacinth 
 -  I’m a Data Analyst 
-- my Skillset are Excel, SQL (MySql & BigQuery) and Tableau 
+- My Skillset are Excel, SQL (MySql & BigQuery) and Tableau 
 - I’m looking to collaborate on projects and get Junior Analyst Role.
 
 <!---
